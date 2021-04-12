@@ -31,11 +31,11 @@ body{
   .intro{
     color: #f4d160;
   }
-.Myimage{
+/* .Myimage{
   width: 20%;
   height: 370px;
   border-radius: 50%;
-}
+} */
 .Myskills{
   color: #d97642;
 }
